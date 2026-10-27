@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "ego-lite",
+  "id": "YanPlugin-ego-lite-for-yan",
   "version": "0.1.0",
   "name": "ego (lite) for Yan",
   "description": "在 Yan Agent 中通过 ego-browser 驱动 ego lite 浏览器：普通网页任务默认走 ego 的独立 Space，本地预览与前端验收仍用 Yan 内置浏览器。",
