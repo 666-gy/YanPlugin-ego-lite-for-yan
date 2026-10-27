@@ -1,5 +1,7 @@
 # YanPlugin-ego-lite-for-Yan
 
+<img src="assets/logo.png" width="88" height="88" alt="ego (lite) for Yan" align="right">
+
 > 给 [Yan Agent](https://github.com/) 的 ego lite 原生插件：普通网页任务走 ego 的独立 Space，本地预览与前端验收仍走 Yan 内置浏览器。
 
 ## 这是什么
