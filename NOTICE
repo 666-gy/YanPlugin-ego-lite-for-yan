@@ -1,0 +1,21 @@
+# NOTICE
+
+This plugin is a thin Yan-side adapter. It does not implement browser automation.
+
+## Upstream
+
+- Project: ego (lite) — https://github.com/citrolabs/ego-lite
+- Copyright: Citro Labs
+- License: MIT
+- Used here: the Skill entry pattern (a thin `SKILL.md` that instructs the agent to run
+  `ego-browser skill` and follow the version-matched guide printed by the installed app),
+  and the naming of the `ego-browser` command.
+
+No upstream automation source, binary, or API documentation is redistributed in this
+repository. The full usage guide is produced at runtime by the locally installed ego lite
+application.
+
+## This repository
+
+- Copyright (c) 2026 666-gy
+- License: MIT (see LICENSE)

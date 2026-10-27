@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "ego-lite",
+  "version": "0.1.0",
+  "name": "ego (lite) for Yan",
+  "description": "在 Yan Agent 中通过 ego-browser 驱动 ego lite 浏览器：普通网页任务默认走 ego 的独立 Space，本地预览与前端验收仍用 Yan 内置浏览器。",
+  "author": "666-gy",
+  "license": "MIT",
+  "instructions": "instructions.md",
+  "skills": [
+    {
+      "id": "ego-browser",
+      "name": "ego-browser",
+      "description": "用 ego lite 执行网页任务：打开站点、搜索、读取页面、填表、点击、截图与批量抽取。仅在需要真实浏览器、登录态或并行 Space 时使用；本地 file:// 预览与前端验收改用 Yan 内置浏览器。",
+      "path": "skills/ego-browser/SKILL.md"
+    }
+  ],
+  "platforms": ["win32", "darwin"],
+  "requiredCommands": ["ego-browser"]
+}
